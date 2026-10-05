@@ -170,7 +170,7 @@ roundMusicStarted = False
 roundPrep = False
 snd_roundStart = pygame.mixer.Sound(programDirectory + "\\assets\\audio\\roundStart.mp3")
 
-splashTxtCount = 74
+splashTxtCount = 88
 #splashTxtCountingDone = False
 splashTxt = []
 splashTxt_52sub1 = str(programDirectory + "\\assets\\image\\splashTxt\\52-1.png")
