@@ -23,7 +23,7 @@ made this ASCII thingie with my own program(plus some manual polishing), GO chec
 
 A different (and maybe a bit odd) take on the classic Pong game, and my first attempt at creating a game in Python, using Pygame.
 
-At the moment of last update of this README (06/10/2026), features include basically all those you'd expect from usual Pong, but more. Controls are:
+At the moment of last update of this README (06/10/2026), features include basically all those you'd expect from usual Pong, but more (with a bunch of inspiration from Deltarune; can't help it, it's a great, SUE ME). Controls are:
 
 Menu controls:
     up - up arrow
